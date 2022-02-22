@@ -1,0 +1,35 @@
+.container{width: 100%;margin: 0;padding:0 auto;}
+.menu{width: 100%;height: 160px;background:yellow;}
+.menu .up{width: 100%;height: 80px;}
+.menu .up ul li{padding: 0 50px;display:inline-block;margin: 1px;}
+.menu .up ul{list-style: none;margin: 0px;}
+.menu .up ul a{text-decoration: none;color: black;}
+.menu .up ul li:hover{background: aqua;}
+.menu.down{width: 100%;height: 80px;}
+.seach {width: 580px;height: 38px;background-color: whitesmoke;margin: 30px;float: left;border-radius: 5px;float: right;}
+.seach input{width: 500px;height: 38px;}
+.seach button img{width: 30px;height:auto;}
+.seach button{height: 35px;}
+.content{width: 1000px;
+    margin: 20px auto;display: grid
+    ;grid-template-columns: 150px 150px 150px 150px 150px 150px;
+grid-template-rows: 150px 150px 150px ;grid-gap: 10px;}
+.item img{width: 150px;height: 150px;border-radius: 10px;}
+.item1{grid-column-start: 1;grid-column-end: 3;}
+.item1 img{width: 310px;}
+.banner img{width: 100%;height: 300px;}
+.all{width: 20%;float: left;}
+.ft1{padding: 90px 20px;color: azure;}
+.chudo{color:red;font-size: 25px;}
+.hotro img{width: 100px;height: 35px;}
+.ten h2:hover{background:red ;}
+.ft1:hover{color: yellow;}
+.footer{width: 100%;height: 400px;clear: both;background:black;}
+.bannerasd{width: 100%;height: 200px;}
+.bannerasd img{width: 100%;height: 200px;}
+
+
+
+
+
+
